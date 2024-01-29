@@ -1,0 +1,6 @@
+1. I would say they have a groovy aura, as they have a relatively high danceability level,
+combined with an above average valence which shows they are usually listening to more positive music. Their energy is slightly below average,
+which makes me believe they are more of a slow dancer.
+
+2. The flaws in this calculation would be the fact that tempo and key are not included, which can help signify how upbeat and the mood conveyed
+by the instruments. I would include these in my calculation of aura.
