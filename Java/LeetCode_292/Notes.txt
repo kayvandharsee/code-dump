@@ -1,0 +1,2 @@
+As we are playing first, we can win everytime the number of stones is a multiple of 1, 2, or 3, by taking 1, 2, and 3, stones respectively. 
+However, on every multiple of 4, no matter what we do, we will not be able to win. Thus, we can return true if n % 4 != 0, and false otherwise.
